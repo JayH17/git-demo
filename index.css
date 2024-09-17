@@ -6,4 +6,8 @@ html, body {
     background: #333;
     font-family: "Roboto", "Noto Sans TC", sans-serif;
   }
+
+html, body, p {
+    color:blueviolet
+}
   
